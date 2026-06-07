@@ -1,10 +1,10 @@
 # estimating-the-cost-of-a-trip-using-machine-learning-methods
-Применение методов машинного обучения для прогнозирования стоимости транзакций компании Uber
-Проект включает в себя слудющие этапы:
-1. Разведочный анализ (EDA)
+Application of Machine Learning Methods for Uber Transaction Cost Prediction
+The project includes the following stages:
+1. Exploratory Data Analysis (EDA)
 2. Data Preprocessing
-3. Нормализация
-4. Future selection
-5. Обучение (Использовались различные виды регрессии и нейронные сети)
-6. Сравнение моделей по различным метрикам
-7. Выводы
+3. Normalization
+4. Feature Selection
+5. Model Training (Various types of regression and neural networks were used)
+6. Model Comparison Based on Various Metrics
+7. Conclusions
